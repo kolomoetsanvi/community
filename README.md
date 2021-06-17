@@ -5,13 +5,16 @@
 http://localhost/community/web/index.php
 ~~~
 
-Перед запуском необходимо заполнить конфиг данными своего 
+Перед запуском необходимо заполнить конфигурационный файл данными своего 
 [Приложения ВК](https://vk.com/dev/first_guide)
 ~~~
 http://localhost/community/config/params.php  
 - accessToken
 - ApiID
 ~~~
+
+И выполнить <h4>composer update</h4>
+
 
 Для визуализации использовалась разметка Bootstrap и фреймворк
 [Knockout](https://knockoutjs.com/).  
