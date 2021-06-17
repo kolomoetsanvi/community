@@ -6,14 +6,13 @@ http://localhost/community/web/index.php
 ~~~
 
 Перед запуском необходимо заполнить конфигурационный файл данными своего 
-[Приложения ВК](https://vk.com/dev/first_guide)
+[Приложения ВК](https://vk.com/dev/first_guide).  
+И выполнить: composer update.
 ~~~
 http://localhost/community/config/params.php  
 - accessToken
 - ApiID
 ~~~
-
-И выполнить: composer update
 
 
 Для визуализации использовалась разметка Bootstrap и фреймворк
