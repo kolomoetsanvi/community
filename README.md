@@ -13,7 +13,7 @@ http://localhost/community/config/params.php
 - ApiID
 ~~~
 
-И выполнить <h4>composer update</h4>
+И выполнить: composer update
 
 
 Для визуализации использовалась разметка Bootstrap и фреймворк
