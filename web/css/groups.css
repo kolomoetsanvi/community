@@ -1,0 +1,29 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.img_50 {
+    border-radius: 50%;
+    background-color: #f0f2f5;
+}
+
+a {
+    color: #0275d8;
+    font-weight: 700;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0275d8;
+}
+
+.labeled {
+    font-size: 13px;
+    color: grey;
+    font-weight: 400;
+    margin-bottom: 3px;
+}
+
+.form-group {
+    margin-right: 10px;
+}
